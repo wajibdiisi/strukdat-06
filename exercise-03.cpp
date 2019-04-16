@@ -91,8 +91,8 @@ void deleteFirst(List &First, pointer &pHapus){
 void deleteLast(List &First, pointer &pHapus){
   	pointer last;
   	if(First==NULL){
-    	pHapus=NULL;
-    	cout << "List Kosong!\n";
+    		pHapus=NULL;
+    		cout << "List Kosong!\n";
   	} 
   	else if(First->next==NULL){
 	  	First=NULL;
