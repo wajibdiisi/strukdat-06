@@ -28,7 +28,6 @@ void InsertFirst(List& First, pointer& pBaru){
 	if(First==NULL){
   		First=pBaru;
 }
- 
 	else{
 		pBaru->next=First;
     	First->prev=pBaru;
