@@ -1,7 +1,7 @@
 /*
 Nama 		: Ahmad Irfan Fadholi
 NPM 		: 140810180034
-Deskripsi 	: Exercise-01
+Deskripsi 	: Exercise-02
 Tanggal		: Selasa, 16 April 2019
 */
 
